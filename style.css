@@ -1,0 +1,35 @@
+body {
+    background-color: gold;
+    font-family: "Times New Roman", Times, serif;
+}
+p {
+    background-color: grey;
+
+}
+h1 {
+    color: darkred;
+}
+
+img.saul {
+    padding: 16px;
+    background-color: darkred;
+}
+.important {
+    font-size: 24px;
+    font-style: italic;
+    color: red;
+}
+li.test:nth-child(odd) {
+background-color: pink;
+}
+#logo{
+   height: 200px;
+   width: 350px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+.nav{
+    background-color: wheat;
+}
